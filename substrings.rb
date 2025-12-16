@@ -10,8 +10,8 @@ def substrings(word, dictionary)
     end
   end
 
-  p results
+  results
 
 end
 
-substrings("Howdy partner, sit down! How's it going?", dictionary)
+p substrings("Howdy partner, sit down! How's it going?", dictionary)
